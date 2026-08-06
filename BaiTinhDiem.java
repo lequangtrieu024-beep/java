@@ -6,7 +6,7 @@ public class BaiTinhDiem {
 
         double chuyenCan, giuaKy, cuoiKy, tongKet;
 
-        System.out.print("Nhap diem chuyen can: ");
+        System.out.print("Nhap diem chuyen can: ")
         chuyenCan = sc.nextDouble();
 
         System.out.print("Nhap diem giua ky: ");
