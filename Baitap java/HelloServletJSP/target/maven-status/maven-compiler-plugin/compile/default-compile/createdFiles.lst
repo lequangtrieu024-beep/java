@@ -1,0 +1,5 @@
+com\example\helloword\resources\JakartaEE10Resource.class
+com\example\helloword\JakartaRestConfiguration.class
+com\example\helloworld\PhuongTrinhServlet.class
+com\example\helloworld\HelloServlet.class
+com\example\helloworld\TamGiacServlet.class
